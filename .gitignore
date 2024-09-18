@@ -163,3 +163,5 @@ cython_debug/
 
 cache/
 *.sqlite
+
+cache/fastf1_http_cache.sqlite
